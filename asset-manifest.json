@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-drankspel/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-drankspel/static/js/main.26198348.chunk.js",
+    "main.js.map": "/react-drankspel/static/js/main.26198348.chunk.js.map",
+    "runtime-main.js": "/react-drankspel/static/js/runtime-main.b1e3fd1f.js",
+    "runtime-main.js.map": "/react-drankspel/static/js/runtime-main.b1e3fd1f.js.map",
+    "static/js/2.bff715b2.chunk.js": "/react-drankspel/static/js/2.bff715b2.chunk.js",
+    "static/js/2.bff715b2.chunk.js.map": "/react-drankspel/static/js/2.bff715b2.chunk.js.map",
+    "index.html": "/react-drankspel/index.html",
+    "precache-manifest.174d55660a9df709348c6d6c150363d2.js": "/react-drankspel/precache-manifest.174d55660a9df709348c6d6c150363d2.js",
+    "service-worker.js": "/react-drankspel/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-drankspel/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bff715b2.chunk.js.LICENSE.txt": "/react-drankspel/static/js/2.bff715b2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-drankspel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1e3fd1f.js",
+    "static/js/2.bff715b2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.26198348.chunk.js"
+  ]
+}
